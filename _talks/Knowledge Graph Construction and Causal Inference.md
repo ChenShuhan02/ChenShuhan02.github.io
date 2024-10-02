@@ -3,7 +3,7 @@ title: "Knowledge Graph Construction and Causal Inference"
 collection: talks
 type: "📚 Research Projects"
 permalink: /talks/2012-03-01-talk-1
-date: 2024-9
+date: 2024-09-01
 ---
 
 ### 1. [Knowledge Graph Construction and Causal Inference](https://github.com/ChenShuhan02/Knowledge-Graph-Construction-and-Causal-Inference)
