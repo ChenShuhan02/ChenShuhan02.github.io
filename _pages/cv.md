@@ -11,7 +11,7 @@ redirect_from:
 
 # Shuhan Chen - Curriculum Vitae
 
-[![Download My CV](https://img.shields.io/badge/Download-CV-blue)](Shuhan's CV.pdf)
+[![Download My CV](https://img.shields.io/badge/Download-CV-blue)](_pages/Shuhan's CV.pdf)
 
 **Phone**: +86-18361258982  
 **Email**: [hichenshuhan@163.com](mailto:hichenshuhan@163.com)  
@@ -129,7 +129,7 @@ redirect_from:
 ## 🌍 English Proficiency and Tests
 
 - **IELTS**: Overall: 7.0 (R: 7.0, L: 7.0, S: 6.5, W: 7.0)
-- **GRE**: Total: 321 (Pending)
+- **GRE**: Total: 321 (V154 + Q167)
 
 
 ---
