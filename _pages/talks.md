@@ -3,7 +3,11 @@ layout: archive
 title: "Research Projects"
 permalink: /talks/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 ## 📚 Research Projects
 
