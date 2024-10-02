@@ -11,7 +11,7 @@ redirect_from:
 
 # Shuhan Chen - Curriculum Vitae
 
-[![Download My CV](https://img.shields.io/badge/Download-CV-blue)](_pages/Shuhan's CV.pdf)
+[![Download My CV](https://img.shields.io/badge/Download-CV-blue)](_pages/Shuhan_CV.pdf)
 
 **Phone**: +86-18361258982  
 **Email**: [hichenshuhan@163.com](mailto:hichenshuhan@163.com)  
