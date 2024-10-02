@@ -3,7 +3,7 @@ title: "Quantitative Backtesting System Based on Technical Indicators"
 collection: talks
 type: "📚 Research Projects"
 permalink: /talks/
-date: 2024
+date: 2024-09-01
 ---
 
 
