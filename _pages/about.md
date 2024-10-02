@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-## 👋 Hi there, I'm Shuhan!  
+### 👋 Hi there, I'm Shuhan!  
 I am currently a final-year undergraduate student pursuing a Bachelor's degree in Data Science and Big Data Technology at Xi'an Jiaotong-Liverpool University (XJTLU). My academic focus spans **machine learning**, **big data analytics**, and **quantitative finance**. As I prepare for the next stage of my academic journey, I am actively applying for **graduate programs** in related fields, and I am also open to **research assistant** or **internship** opportunities that will allow me to deepen my expertise and contribute to impactful projects.
 
 ---
