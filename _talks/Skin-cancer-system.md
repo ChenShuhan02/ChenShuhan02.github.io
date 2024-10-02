@@ -3,7 +3,7 @@ title: "Deep Learning-Based Skin Cancer Recognition System](https://github.com/C
 collection: talks
 type: "Tutorial"
 permalink: /talks/
-date: 2023
+date: 2023-09-01
 ---
 
 ### 2. [Deep Learning-Based Skin Cancer Recognition System](https://github.com/ChenShuhan02/Skin-cancer-system)
