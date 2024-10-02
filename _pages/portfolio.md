@@ -68,13 +68,3 @@ Welcome to my portfolio! Here, you will find a collection of my academic researc
 
 For more detailed information about each project, please check the linked GitHub repositories or reach out directly.
 
-## 📂 Contact Information
-- **Email**: Shuhan.Chen21@student.xjtlu.edu.cn
-- **GitHub**: [ChenShuhan02](https://github.com/ChenShuhan02)
-
-## 📄 Download My CV
-If you'd like to learn more about my background and qualifications, feel free to [Download My CV](../path/to/your/cv.pdf).
-
----
-
-Thank you for visiting my portfolio! I am always looking for exciting opportunities to collaborate and innovate. If you are interested in any of my projects or want to discuss potential collaborations, feel free to contact me.
