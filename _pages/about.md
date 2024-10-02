@@ -44,6 +44,7 @@ I am currently a final-year undergraduate student pursuing a Bachelor's degree i
 
 ---
 
+
 ### 📂 Repositories
 1. [Knowledge Graph Construction and Causal Inference](https://github.com/ChenShuhan02/Knowledge-Graph-Construction-and-Causal-Inference)  
    Built a knowledge graph for **financial news analysis** and applied **Granger causality** to study the impact of news on Apple Inc. stock prices.
