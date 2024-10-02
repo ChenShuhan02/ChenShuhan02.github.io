@@ -11,8 +11,6 @@ redirect_from:
 
 # Shuhan Chen - Curriculum Vitae
 
-[![Download My CV](https://img.shields.io/badge/Download-CV-blue)](Shuhan_CV.pdf)
-
 **Phone**: +86-18361258982  
 **Email**: [hichenshuhan@163.com](mailto:hichenshuhan@163.com)  
 **Address**: Room 102, Unit 3, Building 30, Hanfu Yayuan, Tongshan District, Xuzhou, Jiangsu, China
