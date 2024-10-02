@@ -1,7 +1,9 @@
 ---
 layout: archive
-title: "Research Projects"
-permalink: /talks/
+#title: "Research Projects"
+title: "Repositories"
+#permalink: /talks/
+permalink: /repositories/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,9 +11,10 @@ redirect_from:
 
 {% include base_path %}
 
-## 📚 Research Projects
+[//]: # (## 📚 Research Projects)
 
-Here you can find the details of the research projects I have worked on.
+[//]: # ()
+[//]: # (Here you can find the details of the research projects I have worked on.)
 
 ---
 
