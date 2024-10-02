@@ -45,15 +45,16 @@ I am currently a final-year undergraduate student pursuing a Bachelor's degree i
 ---
 
 ### 📂 Repositories
+1. [Knowledge Graph Construction and Causal Inference](https://github.com/ChenShuhan02/Knowledge-Graph-Construction-and-Causal-Inference)  
+   Built a knowledge graph for **financial news analysis** and applied **Granger causality** to study the impact of news on Apple Inc. stock prices.
 
-1. **[High Frequency Trading Data Analysis](https://github.com/your-username/repo-name)**  
-   A framework using Apache Spark for distributed data processing. Applied machine learning algorithms for signal detection.
+2. [Deep Learning-Based Skin Cancer Recognition System](https://github.com/ChenShuhan02/Skin-cancer-system)  
+   Developed a **deep learning model** using **MobileNetV2** to classify skin lesions from images, with an interactive **GUI** for real-time analysis.
 
-2. **[Sales Forecasting Model](https://github.com/your-username/repo-name)**  
-   Built a time-series forecasting model to predict sales trends. Applied clustering techniques for segmentation analysis.
+3. [Quantitative Backtesting System Based on Technical Indicators](https://github.com/ChenShuhan02/Quantitative-Backtesting-System-Based-on-Technical-Indicators)  
+   A system for **backtesting trading strategies** using popular **technical indicators** like MA, RSI, and Bollinger Bands, including performance evaluation metrics.
 
-3. **[Optiver-Trading at the Close](https://github.com/your-username/repo-name)**  
-   Kaggle Bronze Medal project where stock movements were predicted using time-series analysis techniques.
+
 
 
 
